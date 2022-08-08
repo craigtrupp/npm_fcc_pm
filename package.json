@@ -17,5 +17,6 @@
 	"author": "Gooner Rupp",
 	"description" : "npm package - initial heroku app",
 	"keywords": ["freecodecamp", "npm_package_settings", "heroku", "backendchallenges"],
-	"license": "Exploratory"
+	"license": "Exploratorygit",
+	"version": "1.0.0"
 }
